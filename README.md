@@ -217,6 +217,6 @@ image: heronzonta/stockflow:latest
 ## Autor
 
 Heron Zonta
-Disciplina: Cloud Computing e DevOps
-Curso: [Seu Curso]
-Instituicao: [Sua Instituicao]
+Disciplina: Cloud Computing
+Curso: Sistemas de Informação
+Instituicao: UNIDAVI
