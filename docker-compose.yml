@@ -2,7 +2,6 @@
 # StockFlow — Docker Compose
 # Orquestra: app (PHP+Apache) + db (MySQL)
 # ================================================
-version: "3.9"
 
 services:
 
